@@ -4,4 +4,4 @@
 - 🏕️ I spend most of my family and free time hiking, biking & camping.
 - 🌱 I’m currently learning Pandas and Matplotlib
 - 💞️ I’m looking to collaborate on S.T.E.A.M. education materials, makerspace learning workshops, and making machines that go "Bing!"
-- 📫 [Linked In](https://www.linkedin.com/in/seanosteen/) | [Twitter](https://twitter.com/tinkeringRocks) | [Instagram](https://www.instagram.com/tinkeringrocks/) | [TikTok](https://www.tiktok.com/@tinkeringrocks)
+- 📫 [Linked In](https://www.linkedin.com/in/seanosteen/) | [Twitter](https://twitter.com/tinkeringRocks) | [Instagram](https://www.instagram.com/tinkeringrocks/) | [TikTok](https://www.tiktok.com/@tinkeringrocks)| [mastodon](https://mastodon.social/@TinkeringRocks)
