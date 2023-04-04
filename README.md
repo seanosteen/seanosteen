@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sean, father of 4, software dev/ops by day and avid tinker at night and one weekeneds.
 - 👀 I’m interested in IoT and edge compute. I enjoy rapid prototyping using System on Chip (SoC) and micrcontroller platforms like Raspberry Pi, ESP32, and Arduino.
-- 🏭 When not at play, I specialize in performance engineering in the Logistics and Supply Chain space.
+- 🏭 When not at play, I specialize in performance engineering, data integrations, and data visualizations in the Logistics and Supply Chain space.
 - 🏕️ I spend most of my family and free time hiking, biking & camping.
-- 🌱 I’m currently learning Pandas and Matplotlib
 - 💞️ I’m looking to collaborate on S.T.E.A.M. education materials, makerspace learning workshops, and making machines that go "Bing!"
 - 📫 [Linked In](https://www.linkedin.com/in/seanosteen/) | [Twitter](https://twitter.com/tinkeringRocks) | [Instagram](https://www.instagram.com/tinkeringrocks/) | [TikTok](https://www.tiktok.com/@tinkeringrocks)| [Mastodon](https://mastodon.social/@TinkeringRocks)
