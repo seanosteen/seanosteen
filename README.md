@@ -3,4 +3,4 @@
 - 🏭 When not at play, I specialize in performance engineering, data integrations, and data visualizations in the Logistics and Supply Chain space.
 - 🏕️ I spend most of my family and free time hiking, biking & camping.
 - 💞️ I’m looking to collaborate on S.T.E.A.M. education materials, makerspace learning workshops, and making machines that go "Bing!"
-- 📫 [Linked In](https://www.linkedin.com/in/seanosteen/) | [Twitter](https://twitter.com/tinkeringRocks) | [Instagram](https://www.instagram.com/tinkeringrocks/) | [TikTok](https://www.tiktok.com/@tinkeringrocks)| [Mastodon](https://mastodon.social/@TinkeringRocks)| [TinkeringRocks](https://timkeringrocks.com)
+- 🔗 [TinkeringRocks](https://timkeringrocks.com) | [Linked In](https://www.linkedin.com/in/seanosteen/) | [Twitter](https://twitter.com/tinkeringRocks) | [Instagram](https://www.instagram.com/tinkeringrocks/) | [TikTok](https://www.tiktok.com/@tinkeringrocks) | [Mastodon](https://mastodon.social/@TinkeringRocks)
