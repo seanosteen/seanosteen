@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean, father of 4, software dev/ops by day and avid tinker at night and on weekeneds.
+- 👋 Hi, I’m Sean, father of 4, software dev/ops by day and avid tinker at night and on weekends.
 - 👀 I’m interested in IoT and edge compute. I enjoy rapid prototyping using System on Chip (SoC) and micrcontroller platforms like Raspberry Pi, ESP32, and Arduino.
 - 🏭 When not at play, I specialize in project management, data integrations, and data visualizations within the electric utility space.
 - 🏕️ I spend much of our family time hiking, biking & camping.
