@@ -3,4 +3,4 @@
 - 🏭 When not at play, I specialize in project management, data integrations, and data visualizations within the electric utility space.
 - 🏕️ I spend much of our family time hiking, biking & camping.
 - 💞️ I’m looking to collaborate on S.T.E.A.M. education materials, makerspace learning workshops, and making machines that go "Bing!"
-- 🔗 [TinkeringRocks](https://tinkeringrocks.com) | [Linked In](https://www.linkedin.com/in/seanosteen/) |  [Instagram](https://www.instagram.com/tinkeringrocks/) | [BlueSky]([https://www.tiktok.com/@tinkeringrocks](https://bsky.app/profile/tinkeringrocks.com)) | [Mastodon](https://mastodon.social/@TinkeringRocks) | [X](https://twitter.com/tinkeringRocks)
+- 🔗 [TinkeringRocks](https://tinkeringrocks.com) | [Linked In](https://www.linkedin.com/in/seanosteen/) |  [Instagram](https://www.instagram.com/tinkeringrocks/) | [BlueSky](https://bsky.app/profile/tinkeringrocks.com) | [Mastodon](https://mastodon.social/@TinkeringRocks) | [X](https://twitter.com/tinkeringRocks)
